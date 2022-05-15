@@ -8,6 +8,6 @@
 #### Suburban: $750-$1,400
 #### Rural: $50-$500
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-### Recommendation 1: Total fare will be higher in the highly-concentrated area: Urban > Suburban > Rural.  More drivers should be allocated to the area in higher density to maximize the revenue opportunities.
-### Recommendation 2: 
-### Recommendation 3:
+### Recommendation 1: The total fare is higher in the highly-concentrated area: Urban > Suburban > Rural.  Fare revenue opportunites are almost 10x in Urban and almost 5x in Suburban, compared to Rural area.  More drivers should be allocated to the area in higher density to maximize the fare revenue opportunities, 
+### Recommendation 2: Rural area has higher fare per ride, because the riders use PyBer for longer distance than Urban or Suburban area.  Though these drivers have less frequecy to drive out, each driver will be driving longer distance (=higher fare), thus working shift for Rural area should be for longer period with less number of shifts.
+### Recommendation 3: It is recommended to provide incentives for number of ride than ride distance, because drivers earn less per ride in Urban area, almost by one-thrid.
