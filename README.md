@@ -8,6 +8,6 @@
 #### Suburban: $750-$1,400
 #### Rural: $50-$500
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-### Recommendation 1:
-### Recommendation 2:
+### Recommendation 1: Total fare will be higher in the highly-concentrated area: Urban > Suburban > Rural.  More drivers should be allocated to the area in higher density to maximize the revenue opportunities.
+### Recommendation 2: 
 ### Recommendation 3:
